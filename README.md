@@ -1,6 +1,6 @@
 # Projeto Fintech - FIAP
 
-# **PÁGINA SOBRE DE UM HOTEL**
+# **PÁGINA DE UMA FINTECH**
 ### 📌 Desafio individual proposto pela FIAP - Tecnólogo em ADS.
 </br>
 
@@ -24,8 +24,8 @@
 
 > [Página]()
 
-![Site](.img/tela02.png)
-![Site](.img/tela01.png)
+![Site](img/tela02.png)
+![Site](img/tela01.png)
 
 </br>
 
