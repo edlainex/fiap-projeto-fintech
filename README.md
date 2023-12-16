@@ -1,12 +1,12 @@
 # Projeto Fintech - FIAP
 
-## **PÁGINA DE UMA FINTECH**
+## **PÁGINA DE UMA FINTECH: FinCash**
 ### 📌 Desafio individual proposto pela FIAP - Tecnólogo em ADS.
 </br>
 
 ## **Objetivo**
 <p>
-    Criar uma tela da página.
+    Páginas do Fintech usando HTML, CSS...
 </p>
 </br>
 
@@ -21,7 +21,7 @@
 
 ## **Links**
 
-> [Página]()
+> [Página](https://edlainex.github.io/fiap-projeto-fintech/)
 
 ![Site](img/tela02.png)
 ![Site](img/tela01.png)
