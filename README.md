@@ -1,11 +1,10 @@
 # Projeto Fintech - FIAP
 
-# **PÁGINA DE UMA FINTECH**
+## **PÁGINA DE UMA FINTECH**
 ### 📌 Desafio individual proposto pela FIAP - Tecnólogo em ADS.
 </br>
 
 ## **Objetivo**
-
 <p>
     Criar uma tela da página.
 </p>
