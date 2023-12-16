@@ -1,9 +1,8 @@
 # Projeto Fintech - FIAP
 
-## **PÁGINA DE UMA FINTECH: FinCash**
-### 📌 Desafio individual proposto pela FIAP - Tecnólogo em ADS.
+## **PÁGINA DO FINTECH: FinCash**
+### 📌 Desafio individual proposto pela FIAP - ADS.
 </br>
-
 ## **Objetivo**
 <p>
     Páginas do Fintech usando HTML, CSS...
